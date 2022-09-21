@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Book of Tut</string>
+
+    <string name="shared_pref_name">myPref</string>
+
+    <string name="facebook_app_id">3279582745690788</string>
+    <string name="facebook_client_token">8d59c9b6ca84e8f4d355fc8e26a03b05</string>
+
+    <string name="onesignal_id">e064fd80-e54f-44a2-b05b-1fee9602f4fc</string>
+    <string name="apps_dev_key">taUtarLyDpUDDukK54eHTZ</string>
+    <string name="base_url">https://bookoftut.live/bookoftut.php</string>
+
+    <string name="secure_get_parametr">lfPfNc0qgw</string>
+    <string name="secure_key">8Wdik96UyG</string>
+    <string name="dev_tmz_key">ateFf7h21F</string>
+    <string name="adb_key">E3AdQC5IHN</string>
+    <string name="referrer_key">KYIIQViMTd</string>
+    <string name="gadid_key">FQ6cdUyPTW</string>
+    <string name="deeplink_key">D6dsmIxE8Y</string>
+    <string name="source_key">wffQZgYrBy</string>
+    <string name="af_id_key">eRSZ1PCj89</string>
+    <string name="adset_id_key">BPhiJ8EMMD</string>
+    <string name="campaign_id_key">ZPtZVSvf9c</string>
+    <string name="app_campaign_key">qG7G8r13aL</string>
+    <string name="adset_key">CTaypQnm9H</string>
+    <string name="adgroup_key">UA16U0IrQ4</string>
+    <string name="orig_cost_key">OkBL8NOyAO</string>
+    <string name="af_siteid_key">q1S0whzLZh</string>
+
+    <string name="start_button_text">Start</string>
+    <string name="start_game_text">Press to start a game</string>
+    <string name="game_text">Guess where is scarab</string>
+    <string name="game_btn_text">Flip a coin</string>
+    <string name="victory_text">You won, try again?</string>
+    <string name="victory_btn_text">Try again</string>
+    <string name="tries_text">You have 3 tries</string>
+</resources>
